@@ -4,7 +4,7 @@ My website is [bryn.ai](www.bryn.ai).
 
 Some colab notebooks (mostly me messing around):
 - [Implementation of Sharded MLP from Megatron LM Paper](https://colab.research.google.com/drive/1m6vCELQLgrcVNvfRwzvuE23c-Yk5pvGu?usp=sharing)
-- [Training an MLP from Scratch on MNIST in numpy](https://colab.research.google.com/drive/1pqeHoGl_PIUtlqVYxRXIAFpvvuTPL1qv?usp=sharing)
+- [Training an MLP from Scratch on MNIST in numpy]([https://colab.research.google.com/drive/1pqeHoGl_PIUtlqVYxRXIAFpvvuTPL1qv?usp=sharing](https://colab.research.google.com/drive/1ts8mYwu4mGBPuPkAfLmMJQ5-Nep_HLGs?usp=sharing))
 - [Basic MNIST Training in PyTorch](https://colab.research.google.com/drive/1pqeHoGl_PIUtlqVYxRXIAFpvvuTPL1qv?usp=sharing)
 
 
