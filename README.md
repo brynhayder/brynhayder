@@ -1,4 +1,12 @@
-### Hi there 👋
+# Bryn Hayder Elesedy
+
+My website is [bryn.ai](www.bryn.ai).
+
+Some colab notebooks (mostly me messing around):
+- [Implementation of Sharded MLP from Megatron LM Paper](https://colab.research.google.com/drive/1m6vCELQLgrcVNvfRwzvuE23c-Yk5pvGu?usp=sharing)
+- [Training an MLP from Scratch on MNIST in numpy](https://colab.research.google.com/drive/1pqeHoGl_PIUtlqVYxRXIAFpvvuTPL1qv?usp=sharing)
+- [Basic MNIST Training in PyTorch](https://colab.research.google.com/drive/1pqeHoGl_PIUtlqVYxRXIAFpvvuTPL1qv?usp=sharing)
+
 
 <!--
 **brynhayder/brynhayder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
