@@ -1,6 +1,6 @@
 # Bryn Hayder Elesedy
 
-My website is [bryn.ai](https://bryn.ai/)).
+My website is [bryn.ai](https://bryn.ai/).
 
 Some colab notebooks (mostly me messing around):
 - [Implementation of Sharded MLP from Megatron LM Paper](https://colab.research.google.com/drive/1m6vCELQLgrcVNvfRwzvuE23c-Yk5pvGu?usp=sharing)
