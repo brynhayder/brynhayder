@@ -1,5 +1,3 @@
-# Bryn Hayder Elesedy
-
 My website is [bryn.ai](https://bryn.ai/).
 
 Some colab notebooks (mostly me messing around):
